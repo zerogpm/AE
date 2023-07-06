@@ -1,5 +1,3 @@
----
-
 # 🚀 Spacey McFacey After Effects Project 🌌
 
 Hello Earthlings! 👽 Welcome to the intergalactic hub of my After Effects project, codenamed: **Spacey McFacey**! Yes, you heard it right, we're shooting past the moon and stars with this one. If you thought gravity was keeping your feet grounded, buckle up! 🚀
