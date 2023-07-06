@@ -1,0 +1,23 @@
+# After Effects Render Files
+*.mov
+*.avi
+*.mp4
+
+# After Effects Auto-Saves
+autosave*/
+Adobe After Effects Auto-Save/
+
+# After Effects Cache Files
+*.aep~
+*.bak_*
+Adobe After Effects [0-9]*.log
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
