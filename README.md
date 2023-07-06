@@ -39,7 +39,3 @@ Shoutout to my cat, Whiskers, for sitting on my keyboard and somehow making thes
 So, hop on your rocket and let’s get spacey with Spacey McFacey!
 
 _P.S. No aliens were harmed in the making of this project._
-
----
-
-You can customize this README.md template further by adding screenshots, GIFs, and more details related to your After Effects project. This should serve as a good starting point to capture your audience's attention with some humor and enthusiasm!
