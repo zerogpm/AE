@@ -1,5 +1,3 @@
-Certainly! Below is a funny and engaging README.md template for your After Effects project on GitHub. Feel free to edit it according to your project's specifics:
-
 ---
 
 # 🚀 Spacey McFacey After Effects Project 🌌
